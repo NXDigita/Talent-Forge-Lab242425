@@ -1,0 +1,18 @@
+export const user = {
+  id: "u_1",
+  name: "Alice Chen",
+  handle: "alice-hw",
+  avatar: "AC",
+  title: "Senior Hardware Validation Engineer",
+  tfes: 7842,
+  xp: 24310,
+  sims: 38,
+  badges: 12,
+  rank: 142,
+  percentile: 96,
+  location: "San Francisco, CA",
+  github: "alice-hw",
+  linkedin: "alice-chen",
+  joined: "Jan 2024",
+  bio: "Analog mixed-signal designer. SPICE believer. Building the future of hardware verification.",
+};
