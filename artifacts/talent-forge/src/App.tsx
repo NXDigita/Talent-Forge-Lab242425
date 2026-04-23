@@ -14,6 +14,7 @@ import { Challenges } from "@/pages/Challenges";
 import { ChallengeWorkspace } from "@/pages/ChallengeWorkspace";
 import { Portfolio } from "@/pages/Portfolio";
 import { Leaderboard } from "@/pages/Leaderboard";
+import { Playground } from "@/pages/Playground";
 import NotFound from "@/pages/not-found";
 
 const queryClient = new QueryClient();
@@ -40,6 +41,7 @@ function Router() {
       <Route path="/challenges/:id" component={ChallengeWorkspace} />
       <Route path="/portfolio/:id" component={Portfolio} />
       <Route path="/leaderboard" component={shell(Leaderboard)} />
+      <Route path="/playground" component={shell(Playground)} />
       <Route component={NotFound} />
     </Switch>
   );

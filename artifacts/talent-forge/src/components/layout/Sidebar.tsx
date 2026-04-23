@@ -1,6 +1,6 @@
 import { Link, useLocation } from "wouter";
 import { useState } from "react";
-import { LayoutDashboard, GitBranch, Rocket, BarChart3, Trophy, Swords, User, Cpu, Menu, X } from "lucide-react";
+import { LayoutDashboard, GitBranch, Rocket, BarChart3, Trophy, Swords, User, Cpu, Menu, X, Zap } from "lucide-react";
 import { user } from "@/data";
 import { cn } from "@/lib/utils";
 
@@ -10,6 +10,7 @@ const items = [
   { href: "/simdeploy",  label: "SimDeploy",  icon: Rocket },
   { href: "/skilledge",  label: "SkillEdge",  icon: BarChart3 },
   { href: "/challenges", label: "Challenges", icon: Swords },
+  { href: "/playground", label: "Playground", icon: Zap },
   { href: "/leaderboard",label: "Leaderboard",icon: Trophy },
   { href: `/portfolio/${user.id}`, label: "Portfolio", icon: User },
 ];
