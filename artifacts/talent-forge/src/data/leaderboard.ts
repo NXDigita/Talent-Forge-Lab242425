@@ -16,7 +16,7 @@ const names = [
   "Hiroshi Sato", "Anika Singh", "Lucas Silva", "Marie Dubois", "Omar Hassan", "Ines Castro",
   "Noah Walker", "Aisha Khan", "Tomas Novak", "Liu Bei", "Arjun Reddy", "Sofia Ivanova",
   "Kai Nakamura", "Zara Ahmad", "Ethan Chen", "Maya Gupta", "Diego Lopez", "Hana Kim",
-  "Alice Chen", "Ben Carter",
+  "Arjun Kumar", "Ben Carter",
 ];
 const regions: LeaderEntry["region"][] = ["NA","EU","APAC","SA","AF"];
 const domains = ["analog","digital","power","rf","embedded","control"];

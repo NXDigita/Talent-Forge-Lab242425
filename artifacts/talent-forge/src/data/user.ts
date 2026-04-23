@@ -1,8 +1,8 @@
 export const user = {
   id: "u_1",
-  name: "Alice Chen",
-  handle: "alice-hw",
-  avatar: "AC",
+  name: "Arjun Kumar",
+  handle: "arjun-hw",
+  avatar: "AK",
   title: "Senior Hardware Validation Engineer",
   tfes: 7842,
   xp: 24310,
