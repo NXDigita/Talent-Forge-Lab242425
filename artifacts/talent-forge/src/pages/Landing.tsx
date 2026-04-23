@@ -96,7 +96,7 @@ export function Landing() {
           </motion.div>
 
           <motion.div initial={{ opacity: 0, x: 16 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: 0.6, delay: 0.1 }}>
-            <TerminalLog lines={sampleLog} interval={220} height={340} prompt="alice-hw@forge" />
+            <TerminalLog lines={sampleLog} interval={220} height={340} prompt="arjun-hw@forge" />
           </motion.div>
         </div>
       </section>

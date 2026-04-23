@@ -46,8 +46,8 @@ filesByRepo.repo_7 = filesByRepo.repo_2;
 filesByRepo.repo_8 = filesByRepo.repo_1;
 
 export const commits = [
-  { hash: "a1b2c3d", message: "Tune tail current for lower phase noise", author: "alice-hw", date: "2h ago" },
-  { hash: "9f8e7d6", message: "Add Monte Carlo corner analysis", author: "alice-hw", date: "1d ago" },
+  { hash: "a1b2c3d", message: "Tune tail current for lower phase noise", author: "arjun-hw", date: "2h ago" },
+  { hash: "9f8e7d6", message: "Add Monte Carlo corner analysis", author: "arjun-hw", date: "1d ago" },
   { hash: "7c6b5a4", message: "Fix netlist topology — swap drain/source on M2", author: "j-doe", date: "3d ago" },
-  { hash: "5d4c3b2", message: "Initial schematic and testbench", author: "alice-hw", date: "1w ago" },
+  { hash: "5d4c3b2", message: "Initial schematic and testbench", author: "arjun-hw", date: "1w ago" },
 ];
