@@ -11,7 +11,7 @@ export const user = {
   rank: 142,
   percentile: 96,
   location: "San Francisco, CA",
-  github: "alice-hw",
+  github: "arjun-hw",
   linkedin: "alice-chen",
   joined: "Jan 2024",
   bio: "Analog mixed-signal designer. SPICE believer. Building the future of hardware verification.",

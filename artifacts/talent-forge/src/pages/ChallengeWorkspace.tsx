@@ -144,7 +144,7 @@ export function ChallengeWorkspace() {
                     lines={running ? getBuildLog(ch.title, 88) : ["[ready] press Run to simulate", "[hint] modify .tran step for finer resolution", "[hint] use .meas for parameterized scoring"]}
                     interval={running ? 80 : 999999}
                     height={360}
-                    prompt="alice-hw@forge / sandbox"
+                    prompt="arjun-hw@forge / sandbox"
                   />
                 </div>
               </Panel>
