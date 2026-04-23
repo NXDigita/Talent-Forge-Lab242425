@@ -48,7 +48,7 @@ export function Landing() {
           </nav>
           <Link href="/dashboard">
             <button className="text-sm bg-[#3FB950] text-black px-3 h-8 rounded-md font-medium hover:bg-[#3FB950]/90 transition-colors">
-              Launch app
+              Start Simulation
             </button>
           </Link>
         </div>
